@@ -1,2 +1,1 @@
-# testing
-Just a test repository
+Testing Repository
